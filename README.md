@@ -1,4 +1,4 @@
-# MicroServicos
+# MicroServicos DotNet 7
 Iniciando projeto sala de Aula microservico, porem muito simples, antao vou refatorar
 
 Projeto ate interessante, porem vou refatorar, pois um microservico nao se resume a um CRUD, apenas com classes extremamente anemicas,
